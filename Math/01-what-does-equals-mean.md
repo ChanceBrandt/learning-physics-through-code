@@ -24,9 +24,8 @@ This would mean 4 = 7, which is not true
 
 In order to satisfy the requirement that both sides are equal, I must perform the same operation on both sides. 
 
-EXAMPLE: 
-
-Start with x + 4 = 7 
+**EXAMPLE:**
+Start with $x + 4 = 7$
 Only subtract 4 from the left: x + 4 - 4 = 7
 This would mean x = 7. 
 If I plug that back into the starting equation then that would be 7 + 4 = 7 or 11  = 7, which is not a true statement. 
@@ -36,4 +35,4 @@ Subtract 4 from BOTH sides: x + 4 - 4 = 7 - 4
 This would mean x = 3
 Plugging that back into the starting equation, 3 + 4 = 7 or 7 = 7, which is a true statement. 
 
-IMPORTANT NOTE: When solving an equation, my goal is not to "make" the two sides equal.  The equals sign alread ASSERTS that they MUST be.  My goal is to perform mathematical operations that preserve that equality in order to describe the relationship between quantities. 
+**IMPORTANT NOTE:** When solving an equation, my goal is not to "make" the two sides equal.  The equals sign alread ASSERTS that they MUST be.  My goal is to perform mathematical operations that preserve that equality in order to describe the relationship between quantities. 
