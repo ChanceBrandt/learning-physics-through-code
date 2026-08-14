@@ -6,6 +6,7 @@ This is a running list of questions I encounter while learning mathematics, phys
 
 - What does the equal sign actually mean?
 - Why can we perform the same operation on both sides of an equation?
+- Why do we have to follow PEMDAS? 
 
 ## Physics
 
