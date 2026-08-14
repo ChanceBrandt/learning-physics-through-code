@@ -21,7 +21,7 @@ A function is an equation that is used to describe the relationship between two 
     - x + 4 is an expression 
     - 7 is an expression 
     - Asserting that they are equal creates the Equation 
-**IMPORTANT NOTE:** Connecting expressions with something other than an equals sign such as < or > is NOT an equation, but rather an INEQUALITY. 
+**IMPORTANT NOTE:** Connecting expressions with something other than an equals sign such as $<$ or $>$ is NOT an equation, but rather an INEQUALITY. 
 
 **FUNCTION:** A relationship that assigns each input EXACTLY one output. 
 - Example: $y = x + 7$

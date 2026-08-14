@@ -17,7 +17,7 @@ An equal sign is a statement that an expression on the left and an expression on
 - **Equation:** Compares two expressions with an equals sign to claim that the two expressions are equivalent 
     - Example: $3x + 1 = 7$
         - When solving an equation, the goal is NOT to "make" the two sides equal.  The equals sign asserts they already are.  The goal is to perform mathematical operations that preserve equality in order find the relationship between quantities.  
-- **Inequality:** Compares two expressions without claiming equality with symbols such as <, >, /leq , or /geq
+- **Inequality:** Compares two expressions without claiming equality with symbols such as $<$, $>$, $/leq$ , or $/geq$
     - Example: $3x + 1 < 8$
 - **Funciton:** A rule or relationship between inputs and outputs where each input has exactly one output 
     - $y = 3x + 1$ is a function as if x = 1, y = 4 
