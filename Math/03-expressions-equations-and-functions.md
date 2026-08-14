@@ -21,14 +21,14 @@ A function is an equation that is used to describe the relationship between two 
     - x + 4 is an expression 
     - 7 is an expression 
     - Asserting that they are equal creates the Equation 
-**IMPORTANT NOTE:** Connecting expressions with something other than an equals sign such as $<$ or $>$ is NOT an equation, but rather an INEQUALITY. 
+- **IMPORTANT NOTE:** Connecting expressions with something other than an equals sign such as $<$, $>$, $\leq$, $\geq$ is NOT an equation, but rather an INEQUALITY. 
 
 **FUNCTION:** A relationship that assigns each input EXACTLY one output. 
 - Example: $y = x + 7$
     - When x = 1, y = 6
     - When x = 2, y = 5
     - For each x-value, there is one y-value 
-**IMPORTANT NOTE:** A relationship is NOT a function when an input has more than one output. 
+- **IMPORTANT NOTE:** A relationship is NOT a function when an input has more than one output. 
 - Example: $y^2 + x^2 = 1$
     - When x = 0, y = +1 AND y = -1
     - This is an EQUATION but it is NOT a funciton. 
