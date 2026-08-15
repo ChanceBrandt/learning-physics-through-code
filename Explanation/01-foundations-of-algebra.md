@@ -31,10 +31,15 @@ Solving for x means finding all values for x that make the equation true by simp
 When solving for x it is important to think about what mathematical operations are being applied to x and in what order.  To undo those operations, you would then perform the inverse of those operations in reverse order on both sides of the equation until the variable is isolated. 
 
 **Solution Set:** All values for x that make the equation true 
+
 **Equivalent Equation:** An equation that maintains the same solution set 
+
 **Inverse Operations:** Opposing mathematical operations.  Addition is inverse to subtraction, Multiplication is inverse to Division, etc. 
+
 **Balance Principle:** When transforming an equation, performing the same valid operation on both sides of the equation preserves equality and usually produces an equivalent equation 
+
 **Isolation Principle:** Getting the variable by itself on one side with a value on the other produces the value of the variable. 
+
 
 ## Example
 
@@ -50,8 +55,8 @@ When solving for x it is important to think about what mathematical operations a
 4. In what order should you undo them? why?
     - Subtraction → Division 
     - Since the order of the operations that were applied to x was Multiplication → Addition, you have to undo them in reverse.
-    Applied: x (multiplied by 4) → 4x (add 7)→ 4x + 7
-    Undo: 4x + 7 (subtract 7) → 4x (divide by 4) → x 
+        - Applied: x (multiplied by 4) → 4x (add 7)→ 4x + 7
+        - Undo: 4x + 7 (subtract 7) → 4x (divide by 4) → x 
 5. After your first operation, what equivalent equation do you get? 
     - 4x + 7 = 31, Subtract 7 from both sides
     - 4x = 24 

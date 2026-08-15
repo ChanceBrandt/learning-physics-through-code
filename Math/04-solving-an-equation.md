@@ -97,8 +97,11 @@ It means to find all values of the variable that make the equation true often by
 1. What does it mean for two equations to be equivalent? 
     - It means that they maintain the same solution set 
 2. Why can't you do this:
+
 $x + 5 = 12$ 
+
 $x + 5 - 5 = 12$ 
+
     - Because this does not maintain equivalency and changes the solution set of the equation. 
 3. Consider: $2x + 6 = 18$ and suppose someone says "I moved the 6 across the equals sign, so it became negative." Explain what is really happening mathematically. 
     - The 6 is not moving across the equals sign, an inverse mathematical operation is being applied to both sides of the equation. 
@@ -108,9 +111,8 @@ $x + 5 - 5 = 12$
     - A. Make x appear by itself 
     - B. Find every value that makes the original equation true
     - C. Make both sides simpler 
-What is the best answer and why? 
-    - The goal of solving an equation is to find every value that makes the original equation true. 
-    - Making both sides simpler in order to make x appear by itself are the methods to doing so 
+        - The goal of solving an equation is to find every value that makes the original equation true. 
+        - Making both sides simpler in order to make x appear by itself are the methods to doing so 
 6. Are these equations equivalent? 
 $3x = 12$
 $x = 4$ 
@@ -128,6 +130,6 @@ Without solving completely, consider $5(2x - 3) + 4 = 20.
 
 What operations are wrapped around x starting from x and moving outward? 
 
-x → 2x → 2x - 3 → 5(2x - 3) → 5(2x - 3) + 4
-x → multiplication → subtraction → multiplication → addition 
+- x → 2x → 2x - 3 → 5(2x - 3) → 5(2x - 3) + 4
+- x → multiplication → subtraction → multiplication → addition 
 
