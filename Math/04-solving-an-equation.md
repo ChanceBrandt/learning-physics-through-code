@@ -101,7 +101,6 @@ It means to find all values of the variable that make the equation true often by
 $x + 5 = 12$ 
 
 $x + 5 - 5 = 12$ 
-
     - Because this does not maintain equivalency and changes the solution set of the equation. 
 3. Consider: $2x + 6 = 18$ and suppose someone says "I moved the 6 across the equals sign, so it became negative." Explain what is really happening mathematically. 
     - The 6 is not moving across the equals sign, an inverse mathematical operation is being applied to both sides of the equation. 
