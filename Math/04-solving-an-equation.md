@@ -92,4 +92,42 @@
 ## What does it mean to solve for x? 
 It means to find all values of the variable that make the equation true often by undoing the mathematical operations applied to x using their inverse operations in reverse order to find simpiler equivalent equations that preserve the same solution set until the variable is isolated. 
 
+## Understanding Questions
+
+1. What does it mean for two equations to be equivalent? 
+    - It means that they maintain the same solution set 
+2. Why can't you do this:
+$x + 5 = 12$ 
+$x + 5 - 5 = 12$ 
+    - Because this does not maintain equivalency and changes the solution set of the equation. 
+3. Consider: $2x + 6 = 18$ and suppose someone says "I moved the 6 across the equals sign, so it became negative." Explain what is really happening mathematically. 
+    - The 6 is not moving across the equals sign, an inverse mathematical operation is being applied to both sides of the equation. 
+4. Why do we generally undo operations in reverse order? 
+    - This is done to simplify the equation until x can be isolated.  If you assume the equation starts with the variable x and has some operations applied in a specific order, then to get back to x you have to undo them in the opposite order. It is the same principle as putting on a shirt, then adding a jacket over it.  You can't take the shirt off without taking the jacket off first. 
+5. Is the goal of solving an equation 
+    - A. Make x appear by itself 
+    - B. Find every value that makes the original equation true
+    - C. Make both sides simpler 
+What is the best answer and why? 
+    - The goal of solving an equation is to find every value that makes the original equation true. 
+    - Making both sides simpler in order to make x appear by itself are the methods to doing so 
+6. Are these equations equivalent? 
+$3x = 12$
+$x = 4$ 
+Why or why not? 
+    - These equations are equivalent as if you plug in the value for x given by the second equation, it makes the first equation true. Meaning both equations have the same solution set. 
+7. Are these equations equivalent? 
+$x + 2 = 7$
+$x = 7$ 
+Why or why not? 
+    - These equations are NOT equivalent as if you plug in the value for x given by the second equation, you get 9 = 7, which is false. Therefore both equations have different solution sets and are not equivalent. 
+
+## Challenge Question
+
+Without solving completely, consider $5(2x - 3) + 4 = 20. 
+
+What operations are wrapped around x starting from x and moving outward? 
+
+x → 2x → 2x - 3 → 5(2x - 3) → 5(2x - 3) + 4
+x → multiplication → subtraction → multiplication → addition 
 
