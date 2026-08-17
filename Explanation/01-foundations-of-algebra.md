@@ -1,4 +1,4 @@
-# Variables, Equals Sign, Expressions, Equations, Inequalities, and Functions 
+# Variables, Equality, Expressions, Equations, and Functions
 
 ## Variables
 A variable is a symbol that represents a value which is unknown, unspecified, or allowed to vary
@@ -24,7 +24,7 @@ An equal sign is a statement that an expression on the left and an expression on
     - $y^2 + x^2 = 1$ is NOT a function as if x = 0, y = +1 AND -1
 
 
-# What does it mean to "Solve for x"? 
+# Solving Equations and Inverse Operations: What does it mean to "Solve for x"? 
 
 Solving for x means finding all values for x that make the equation true by simplifying the equation into equivalent ones that maintainthe  same solution set until the variable is isolated often through inverse operations done in the reverse order of the mathematical operations applied to x. 
 
@@ -39,7 +39,6 @@ When solving for x it is important to think about what mathematical operations a
 **Balance Principle:** When transforming an equation, performing the same valid operation on both sides of the equation preserves equality and usually produces an equivalent equation 
 
 **Isolation Principle:** Getting the variable by itself on one side with a value on the other produces the value of the variable. 
-
 
 ## Example
 
@@ -68,3 +67,51 @@ When solving for x it is important to think about what mathematical operations a
 8. How could you verify that your answer is actually a solution? 
     - Take x and apply it to the original equation and see if the value makes the equation true
     - 4(6) + 7 = 31 → 24 + 7 = 31 → 31 = 31 
+
+
+# Simplifying Expressions: Like Terms, Distributive Property, and Factoring  
+**Simplifying an Expression:** Rewriting an expression in a simplier equivalent form without changing its value  
+**Simplifying vs Solving an Expression:** Simplifying an expression is rewriting the same quantity in a simpler form. Solving an expression is finding the value for the variable that makes the equation true. 
+
+## Properties of Addition  
+**Commutative Property of Addition:** When quantities are added, changing the order does not change the sum.  
+    - 4 + 2 = 2 + 4 = 6
+**Associative Property of Addition:** When quantities are added, grouping the quantities or changing the grouping does not change the sum.  
+    - (3 + 2) + 5 = 3 + (2 + 5) = 10  
+**Subtraction and Commutative and Associative Properties:** When quantities are subtracted, rearranging (commutative) or reordering (associative) the terms changes the values.  Therefore, to be able to apply these properties, you must apply the additive inverse where a - b = a + (-b) 
+
+## Terms  
+**Term:** Chunk of an equation often seperated by addition and subtraction.   
+    - Consider: 3x + 3y - 4x
+    - Terms are 3x, 3y, -4x
+**Like Terms:** Terms that share the same quantity  
+    - Consider: 3x + 3y - 4x
+    - Like terms are 3x and -4x as they are multiples of the same quantity, "x" 
+
+## Factor, Distributive Property, and Factoring  
+**Factors:** Quantities that are multiplied together  
+    - 5 x 3 = 15, 5 and 3 are factors  
+**Product:** The result of multipying two or more factors  
+    - 5 x 3 = 15, 15 is the product 
+**Distributive Property:** A rule that states that you can multiply a factor by each term in a group. 
+    - 3(5x + 2) = 3(5x) + 3(2) = 15x + 6  
+**Factoring:** Using the distributive property backward to rewrite a sum or difference as a product by identifying a factor shared by two or more terms, placing that common factor outside a group, and placing the remaining factors inside the group.   
+    - 15x + 6, common factor is 3, remaining terms are 5x and 2, which becomes 3(5x + 2)
+
+## Example  
+
+**Consider:** 3(x + 2) + 4x + 5 and simplify  
+1. Distribute the 3 using the Distributive Property to get 3x + 6 + 4x + 5  
+2. Combine like terms: 3x + 4x + 6 + 5 = 7x + 11
+3. Are there any common factors between 7 and 11?  No, they are prime numbers. Therefore, 7x + 11 is the simpliest form. 
+
+## Questions  
+
+1. Why can like terms be combined?
+&emsp; Like terms can be combined because they are multiples of the same quantity  
+2. How are distribution and factoring related?  
+&emsp; Distribution and factoring are related as factoring is just distribution backwards.  Distribution is a rule that allows you to multiply a factor to every term in a group and factoring identifies a factor shared by multiple terms and places that common factor outside a group.  
+3. Why can't subtraction be rearranged and regrouped the same way addition can?  
+&emsp; Subtraction can't be rearranged or regrouped the way addition can because changing the arrangement or grouping changes its value.  
+4. Why does a negative sign in front of a parantheses change every sign inside?  
+&emsp; A negative sign in front of a paranthesis changes every sign inside because you are distributing a -1 to each term inside the paranthesis, which changes their sign. 
