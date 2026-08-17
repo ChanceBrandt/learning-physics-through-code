@@ -116,3 +116,6 @@ This is done by simplifying the equation into equivalent ones that maintain the 
 &emsp; Subtraction can't be rearranged or regrouped the way addition can because changing the arrangement or grouping changes its value.  
 4. Why does a negative sign in front of a parantheses change every sign inside?  
 &emsp; A negative sign in front of a paranthesis changes every sign inside because you are distributing a -1 to each term inside the paranthesis, which changes their sign. 
+
+
+# Fractions and Division 
