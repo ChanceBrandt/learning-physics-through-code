@@ -5,11 +5,11 @@ A variable is a symbol that represents a value which is unknown, unspecified, or
 - Types of Variables
     - Indpenedent: Able to be choosen or supplied as the input
     - Dependent: Variable whose value depends on the input.  This can also be known as the output 
-    - Constant: Value that remains fixed
+    - Constant: Value that remains fixed and does not contain a variable 
 
 ## Equals Sign
 An equal sign is a statement that an expression on the left and an expression on the right are equivalent
-- Since both expressions are equal, any mathematical operation done to one side of the equation must be done to the other side in order to maintain equivalency. 
+- Since both expressions are equal, any mathematical operation done to one side of the equation must be done to the other side in order to maintain equivalency and not change the solution.
 
 ## Expression vs Equation vs Inequality vs Funciton 
 - **Expression:** A collection of numbers, variables and/or mathematical operations that represent a value 
@@ -26,9 +26,9 @@ An equal sign is a statement that an expression on the left and an expression on
 
 # Solving Equations and Inverse Operations: What does it mean to "Solve for x"? 
 
-Solving for x means finding all values for x that make the equation true by simplifying the equation into equivalent ones that maintainthe  same solution set until the variable is isolated often through inverse operations done in the reverse order of the mathematical operations applied to x. 
+Solving for x means finding all values for x that make the equation true. 
 
-When solving for x it is important to think about what mathematical operations are being applied to x and in what order.  To undo those operations, you would then perform the inverse of those operations in reverse order on both sides of the equation until the variable is isolated. 
+This is done by simplifying the equation into equivalent ones that maintain the same solution set until the variable is isolated.  When solving for x it is important to think about what mathematical operations are being applied to x and in what order.  To undo those operations, you would then perform the inverse of those operations in reverse order on both sides of the equation until the variable is isolated. 
 
 **Solution Set:** All values for x that make the equation true 
 
@@ -78,13 +78,14 @@ When solving for x it is important to think about what mathematical operations a
     - 4 + 2 = 2 + 4 = 6  
 **Associative Property of Addition:** When quantities are added, grouping the quantities or changing the grouping does not change the sum.  
     - (3 + 2) + 5 = 3 + (2 + 5) = 10  
-**Subtraction and Commutative/Associative Properties:** When quantities are subtracted, rearranging (commutative) or reordering (associative) the terms changes the values.  Therefore, to be able to apply these properties, you must apply the additive inverse where a - b = a + (-b) 
+**Additive Inverse:** Quantity when **added** to the value makes it equal to 0. 5 + (-5) = 0  
+**Subtraction and Commutative/Associative Properties:** When quantities are subtracted, rearranging (commutative) or reordering (associative) the terms changes the values.  Therefore, to be able to apply these properties, you must apply the **additive inverse** where a - b = a + (-b) 
 
 ## Terms  
 **Term:** Chunk of an equation often seperated by addition and subtraction.   
     - Consider: 3x + 3y - 4x
     - Terms are 3x, 3y, -4x  
-**Like Terms:** Terms that share the same quantity   
+**Like Terms:** Terms that are groups of the same quantity   
     - Consider: 3x + 3y - 4x
     - Like terms are 3x and -4x as they are multiples of the same quantity, "x" 
 
@@ -93,7 +94,7 @@ When solving for x it is important to think about what mathematical operations a
     - 5 x 3 = 15, 5 and 3 are factors   
 **Product:** The result of multipying two or more factors  
     - 5 x 3 = 15, 15 is the product   
-**Distributive Property:** A rule that states that you can multiply a factor by each term in a group. 
+**Distributive Property:** A rule that states that you can multiply a factor by a grouped expression by multiplying a factor by each term inside the group
     - 3(5x + 2) = 3(5x) + 3(2) = 15x + 6    
 **Factoring:** Using the distributive property backward to rewrite a sum or difference as a product by identifying a factor shared by two or more terms, placing that common factor outside a group, and placing the remaining factors inside the group.    
     - 15x + 6, common factor is 3, remaining terms are 5x and 2, which becomes 3(5x + 2)
