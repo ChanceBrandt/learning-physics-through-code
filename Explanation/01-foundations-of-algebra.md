@@ -75,27 +75,27 @@ When solving for x it is important to think about what mathematical operations a
 
 ## Properties of Addition  
 **Commutative Property of Addition:** When quantities are added, changing the order does not change the sum.  
-    - 4 + 2 = 2 + 4 = 6
+    - 4 + 2 = 2 + 4 = 6  
 **Associative Property of Addition:** When quantities are added, grouping the quantities or changing the grouping does not change the sum.  
     - (3 + 2) + 5 = 3 + (2 + 5) = 10  
-**Subtraction and Commutative and Associative Properties:** When quantities are subtracted, rearranging (commutative) or reordering (associative) the terms changes the values.  Therefore, to be able to apply these properties, you must apply the additive inverse where a - b = a + (-b) 
+**Subtraction and Commutative/Associative Properties:** When quantities are subtracted, rearranging (commutative) or reordering (associative) the terms changes the values.  Therefore, to be able to apply these properties, you must apply the additive inverse where a - b = a + (-b) 
 
 ## Terms  
 **Term:** Chunk of an equation often seperated by addition and subtraction.   
     - Consider: 3x + 3y - 4x
-    - Terms are 3x, 3y, -4x
-**Like Terms:** Terms that share the same quantity  
+    - Terms are 3x, 3y, -4x  
+**Like Terms:** Terms that share the same quantity   
     - Consider: 3x + 3y - 4x
     - Like terms are 3x and -4x as they are multiples of the same quantity, "x" 
 
 ## Factor, Distributive Property, and Factoring  
 **Factors:** Quantities that are multiplied together  
-    - 5 x 3 = 15, 5 and 3 are factors  
+    - 5 x 3 = 15, 5 and 3 are factors   
 **Product:** The result of multipying two or more factors  
-    - 5 x 3 = 15, 15 is the product 
+    - 5 x 3 = 15, 15 is the product   
 **Distributive Property:** A rule that states that you can multiply a factor by each term in a group. 
-    - 3(5x + 2) = 3(5x) + 3(2) = 15x + 6  
-**Factoring:** Using the distributive property backward to rewrite a sum or difference as a product by identifying a factor shared by two or more terms, placing that common factor outside a group, and placing the remaining factors inside the group.   
+    - 3(5x + 2) = 3(5x) + 3(2) = 15x + 6    
+**Factoring:** Using the distributive property backward to rewrite a sum or difference as a product by identifying a factor shared by two or more terms, placing that common factor outside a group, and placing the remaining factors inside the group.    
     - 15x + 6, common factor is 3, remaining terms are 5x and 2, which becomes 3(5x + 2)
 
 ## Example  
@@ -107,7 +107,7 @@ When solving for x it is important to think about what mathematical operations a
 
 ## Questions  
 
-1. Why can like terms be combined?
+1. Why can like terms be combined?  
 &emsp; Like terms can be combined because they are multiples of the same quantity  
 2. How are distribution and factoring related?  
 &emsp; Distribution and factoring are related as factoring is just distribution backwards.  Distribution is a rule that allows you to multiply a factor to every term in a group and factoring identifies a factor shared by multiple terms and places that common factor outside a group.  
