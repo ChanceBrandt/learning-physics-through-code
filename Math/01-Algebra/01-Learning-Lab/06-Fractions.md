@@ -128,7 +128,7 @@ Now cut every third-sized piece into 2 equal pieces.
 
 **Important Note:** Why does $\frac{2}{2}$ = 1? 
     - When you are dividing, you are asking "how many groups of the **dividend** (the number being divided or the numerator) can I fit in into the **divisor** (the number you are dividng by or the denominator) 
-    - So when asking the question what is 2 ÷ 2 or what is $\frac{2}{2}, you are asking how many groups of 2 can I fit into 2.  The answer is 1. 
+    - So when asking the question what is 2 ÷ 2 or what is $\frac{2}{2}$, you are asking how many groups of 2 can I fit into 2.  The answer is 1. 
 
 ### Reducing Fractions
 
@@ -143,7 +143,7 @@ Now cut every third-sized piece into 2 equal pieces.
 
 3. You should get something of the form of $\frac{2(2)}{2(3)}$  
 Can you see a way to rewrite that so a factor of $\frac{2}{2}$ appears?  
-    - $\frac{4}{6} = $\frac{2}{3}$ x $\frac{2}{2}$ 
+    - $\frac{4}{6} = \frac{2}{3} x \frac{2}{2}$ 
 
 4. Since $\frac{2}{2}$ = 1, what should be left? 
     - $/frac{2}{3}$ 
@@ -268,7 +268,131 @@ Explain why subtraction follows the same common-denominator requirement as addit
 
 ## Multiplying Fractions 
 
+**Consider:** $\frac{1}{2}$ x $\frac{3}{4}$
 
+What does it actually mean to take one-half of three-fourths? 
+    - It means that we are taking 3 fourth sized pieces and dividng that amount into 2 eaquah groups.  Threfore the fourth-sized pieces need to be smaller. 
+
+**How to calculate:**  
+Since 3 quarter-sized pieces can't be split evenly into two groups, we can take each quarter piece and cut it in half 
+
+Start with: $\frac{1}{4}$ + $\frac{1}{4}$ + $\frac{1}{4}$ which is equal to $\frac{3}{4}$ 
+
+$\frac{1}{4}$ becomes $\frac{1}{8}$ + $\frac{1}{8}$ 
+
+Therefore $\frac{3}{4}$ = $\frac{1}{8}$ + $\frac{1}{8}$ + $\frac{1}{8}$ + $\frac{1}{8}$ + $\frac{1}{8}$ + $\frac{1}{8}$ = $\frac{6}{8}$ 
+
+Now divide those 6 eighth-sized pieces into 2 equal groups: ($\frac{1}{8}$ + $\frac{1}{8}$ + $\frac{1}{8}$) + ($\frac{1}{8}$ + $\frac{1}{8}$ + $\frac{1}{8}$) 
+
+One group = $\frac{1}{8}$ + $\frac{1}{8}$ + $\frac{1}{8}$ = $\frac{3}{8}$ 
+
+Therefore $\frac{1}{2}$ x $\frac{3}{4}$ = $\frac{3}{8}$ 
+
+**Final Answer:** $$\frac{1}{2} x $\frac{3}{4}$$ means we are taking the quantity $\frac{3}{4}$, dividing it into two equal groups, and taking 1 of those groups, which equals $\frac{3}{8}$ 
+
+
+**Consider:** $\frac{2}{3}$ x $\frac{3}{4}$  
+This means we are taking two third-sized groups of the quantity $\frac{3}{4}$
+
+Fourths does not easily separate into thirds, so we must divide the quarter pieces in half.  We did this in the previous problem and discovered that $\frac{3}{4}$ = $\frac{6}{8}$ 
+
+Now, we take group these into 3 equal sized groups and take 2 of those groups.  
+($\frac{1}{8}$ + $\frac{1}{8}$) + ($\frac{1}{8}$ + $\frac{1}{8}$) + ($\frac{1}{8}$ + $\frac{1}{8}$)  
+Two of those groups = ($\frac{1}{8}$ + $\frac{1}{8}$) + ($\frac{1}{8}$ + $\frac{1}{8}$) = $\frac{4}{8}$ 
+
+### Why multiplying straight across works: 
+
+**Consider:** $\frac{2}{3}$ x $\frac{4}{5}$  
+This is read as we are taking two-thirds of four-fifths. 
+
+1. If one who originally has 5 fifth-sized pieces and each fifth gets divided into 3 equal parts, how many of the new smaller pieces make one whole? 
+    - If we originally have 5 and are dividing each piece into 3 pieces, then we would do 5 x 3 = 15. So the whole now has 15 pieces. 
+
+2. You originally had four fifth-sized pieces. If each of those 4 pieces is divided into three smaller pieces, how many of the new pieces represent your original? 
+    - You now have 12 fifteenth-sized pieces as 4 x 3 = 12 
+
+3. Now divide that amount into 3 equal groups and take 2 groups because we are finding two-thirds of four-fifths. How many of the new pieces did you take? 
+    - If we have 12 pieces and we are dividing them into 3 equal groups, then each group has 4 fifteenth-sized pieces as 12 ÷ 3 = 4
+    - We are then taking two of those groups so $\frac{4}{15}$ + $\frac{4}{15}$ = $\frac{8}{15}$ 
+
+4. Compare your answer to $\frac{2x4}{3x5}$  
+    - $\frac{2x4}{3x5}$ = $\frac{8}{15}$, which is equivalent to the answer we got in question 3. 
+    - The reason that we are able to multiply across for the denominator is because we are taking the fifth sized pieces and dividing them into 3 equal parts, which is 5 x 3, which is 15. 
+    - The reason we are able to multiply across for the numerator is that we started four fifth-sized pieces and after dividng every fifth into thirds, we have 12 fifteenth-sized pieces.  Now we are dividing those 12 pieces into 3 equal groups, which is 12 ÷ 3 = 4. Then we take 2 groups of those 4 pieces, which is 2 x 4 = 8. 
+
+### Final Multiplication Check 
+
+**Consider:** $\frac{3}{4}$ x $\frac{2}{5}$ 
+
+1. Use the multiplication rule you've now derived  
+    - $$\frac{3}{4} x \frac{2}{5} = \frac{3(2)}{4(5)} = \frac{6}{20} = \frac{3(2)}{10(2)} = \frac{3}{10}$$
+
+2. What does the original expression actually mean?
+    - We are taking three fourths of two fifths 
+
+## Division of Fractions and Why the Reciprocal Appears 
+
+**Consider:** 12 ÷ 3 = 4  
+This means, how many groups of 3 fit inside 12?  
+The answer is 4 because 3 + 3 + 3 + 3 = 12 
+
+**Consider:** $\frac{3}{4} ÷ \frac{1}{4}$  
+This means, how many $\frac{1}{4}$ sized pieces fit inside $\frac{3}{4}$ or how many quarters are contained in three quarters?
+The answer is 3 because $\frac{1}{4} + \frac{1}{4} + \frac{1}{4} = \frac{3}{4}$   
+Therefore, $\frac{3}{4} ÷ \frac{1}{4} = 3$
+
+### Forming Understanding 
+
+1. $\frac{5}{6} ÷ \frac{1}{6}$ In words, what question is this division asking? Give the answer and explain why. 
+    - It is asking how many sixths are contained in five sixths.  The answer to that is 5. 
+
+2. $\frac{3}{4} ÷ \frac{1}{2}$  
+&emsp; What quesiton is this division asking 
+    - How many halves fit in three fourths
+    - This question does not really make sense because they are different units, so we need to make the units the same.  The LCM(2,4) = 4, so the expression becomes $\frac{3}{4} ÷ \frac{2}{4}$
+    - Now we are asking, how many groups of 2 fourth-sized pieces fit inside 3 fourth-sized pieces. So we are asking how many groups, each containing 2 fourths, can be formed from 3 fourths. 
+    - $\frac{1}{4} + \frac{1}{4} + /frac{1}{4} = \frac{3}{4}$.  
+    - The first $/frac{1}{4} + \frac{1}{4}$ makes up 1 group of 2 fourths, and we are left with half of a group of 2 fourths remaining. Therefore 1.5 groups of 2 fourths make up 3 fourths.  
+**Important Note:** Once we converted into common units, we effectively did 3(fourths) ÷ 2(fourths) = 3 ÷ 2 = $\frac{3}{2}$ or 1.5
+
+### Where the reciprocal comes from
+
+**Consider:** $\frac{2}{3} ÷ \frac{4}{5}$
+
+1. What is the LCM(3,5). Use that to rewrite the fractions into common units 
+    - LCM(3,5) = 15 
+    - $\frac{2}{3} = \frac{2(5)}{3(5)} = \frac{10}{15}$
+    - $\frac{4}{5} = \frac{4(3)}{5(3)} = \frac{12}{15}$ 
+    - The new problem is $\frac{10}{15} ÷ \frac{12}{15}$
+
+2. What is the problem now asking? What division of ordinary whole numbers does that reduce to? 
+    - The question is now asking how many groups of 12 fifteenths fit inside 10 fifteenths  
+    10 fiftheenths ÷ 12 fifteenths = 10 ÷ 12 = $\frac{10}{12}$ = $\frac{5}{6}$ 
+
+3. Compare your answer with what happens if we calculate $\frac{2}{3} x \frac{5}{4}$ 
+    - $\frac{2}{3} x \frac{5}{4} = \frac{2(5)}{3(4)} = \frac{10}{12} = \frac{5}{6}$ 
+    - This is equivalent to the answer found in question 2. 
+
+Therefore: $\frac{2}{3} ÷ \frac{4}{5} = \frac{2}{3} x \frac{5}{4}$ 
+
+**The reciprocal comes out of rewriting the fractions with the same sized units** 
+
+### Final Division Understanding Check 
+
+**Consider:** $\frac{3}{5} ÷ \frac{2}{7}$ 
+
+Do it using the reciprocal rule
+    - $\frac{3}{5} x \frac{7}{2} = \frac{21}{10}$
+
+What does the original division expression as in words? 
+    - How many groups of $\frac{7}{2}$ are contained in $\frac{3}{5}$ 
+
+Why are we allowed to replace division by $\frac{2}{7}$ with multiplication by $\frac{7}{2}$ 
+    - This comes out of creating common units for the denominator. 
+    - To get the common units 
+        - $\frac{3}{5} = \frac{21}{30}$
+        - $\frac{2}{7} = \frac{10}{30}$
+    - Now we have 21(30-ths) ÷ 10 (30ths) = $\frac{21}{10}$ 
 
 
 # Definitions and Concepts 
@@ -300,4 +424,34 @@ Explain why subtraction follows the same common-denominator requirement as addit
         - Multiples of 3: 3, 6, 9, 12, 15... 
         - The smallest positve number that appears in both lists is 6
 
-**Multiplying Fractions:**
+**Multiplying Fractions:** $\frac{a}{b}$ x $\frac{c}{d}$ = $\frac{a*c}{b*d}$
+    - d tells us the original fractional unit
+    - b tells us to divide those units original d units into b even smaller pieces
+    - That produces b x d equal pieces in the whole 
+    - c tells us how many of the original pieces we're considering 
+    - a tells us how many of the b groups we are taking 
+    - Ultimately we count a x c of the new pieces  
+**Important Note:** We do **not** need common units before multiplying becuase we are not combining two collections of pieces, we are taking a fraction of another quantity. 
+
+**Dividing Fractions:** $\frac{a}{b} ÷ \frac{c}{d} = \frac{a}{b} x \frac{d}{c}$ 
+    - Rewrite the first fraction and the second fraction by multiplying the denominators together 
+        - $\frac{a}{b} = \frac{ad}{bd}$
+        - $\frac{c}{d} = \frac{bc}{bd}$ 
+    - Now we are comparing the same sized units 
+        - $\frac{ad}{bd} ÷ \frac{bc}{bd}$ 
+    - The common units cancel out 
+        - ad ÷ bc 
+    - Now the fraction is $\frac{ad}{bc}$ or $\frac{a}{b} x \frac{d}{c}$  
+    - When we rewrite both fractions using the same fractional unit, the factors used to create that common unit cause the divsor's numerator and denominator to swtich positions in the resulting expression. This produces its reciprocal. 
+
+**Reciprocal:** The number that **multiplies** with it to make 1. 
+    - Example: $\frac{4}{5} x \frac{5}{4}$ = 1
+
+**Important conceptual Distinctions:** 
+    - Addition/Subtraction 
+        - We need common sized units because we are combining or removing quantities 
+    - Multiplication 
+        - We are taking a fraction **of** a quantity
+    - Division 
+        - We are asking how many groups of one quantity fit inside the other 
+        - How many groups of the divisor fit inside the divdend. 
