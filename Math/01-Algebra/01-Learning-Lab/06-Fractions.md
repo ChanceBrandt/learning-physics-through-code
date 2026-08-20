@@ -351,8 +351,8 @@ Therefore, $\frac{3}{4} ÷ \frac{1}{4} = 3$
     - How many halves fit in three fourths
     - This question does not really make sense because they are different units, so we need to make the units the same.  The LCM(2,4) = 4, so the expression becomes $\frac{3}{4} ÷ \frac{2}{4}$
     - Now we are asking, how many groups of 2 fourth-sized pieces fit inside 3 fourth-sized pieces. So we are asking how many groups, each containing 2 fourths, can be formed from 3 fourths. 
-    - $\frac{1}{4} + \frac{1}{4} + /frac{1}{4} = \frac{3}{4}$.  
-    - The first $/frac{1}{4} + \frac{1}{4}$ makes up 1 group of 2 fourths, and we are left with half of a group of 2 fourths remaining. Therefore 1.5 groups of 2 fourths make up 3 fourths.  
+    - $\frac{1}{4} + \frac{1}{4} + \frac{1}{4} = \frac{3}{4}$.  
+    - The first $\frac{1}{4} + \frac{1}{4}$ makes up 1 group of 2 fourths, and we are left with half of a group of 2 fourths remaining. Therefore 1.5 groups of 2 fourths make up 3 fourths.  
 **Important Note:** Once we converted into common units, we effectively did 3(fourths) ÷ 2(fourths) = 3 ÷ 2 = $\frac{3}{2}$ or 1.5
 
 ### Where the reciprocal comes from
@@ -405,8 +405,8 @@ Why are we allowed to replace division by $\frac{2}{7}$ with multiplication by $
 
 **Quotient:** The result of division, this can also be a fraction as 12 ÷ 3 = $\frac{12}{3}$
 
-**Equivalent Fractions:** Multiplying the numerator and denominator by the same nonzero factor is really multiplying the entire fraction by 1 so the value does not change.  
-    - $\frac{a}{b}$ = $\frac{a*k}{b*k}$ where k is a nonzero factor. 
+**Equivalent Fractions:** Multiplying the numerator and denominator by the same nonzero factor is really multiplying the entire fraction by 1 so the value does not change  
+&emsp; $\frac{a}{b} = \frac{a(k)}{b(k)}$ where k is a nonzero factor. 
 
 **Reducing Fractions:** You can reduce fractions by dividing the numerator and denomiator by the same nonzero factor. A common factor in the numerator and denominator forms a factor equal to 1 so it can be removed without changing the fraction's value. 
 
@@ -414,44 +414,44 @@ Why are we allowed to replace division by $\frac{2}{7}$ with multiplication by $
 
 **Finding a common denominator:** Finding a common denominator is important as in order to add or subtract units, the units must be the same.  If fractions have different denominators, then you are adding and subtracting different units.  To find a common denominator, you would find the Least Common Multiple between the denominators and then rewrite the original fractions as equivalent fractions of the new denominator. 
 
-**Multiple:** The result of multiplying that number by an integer (counting number)
-    - Multiples of 2 are 2, 4, 6, 8...
+**Multiple:** The result of multiplying that number by an integer (whole number)  
+    - Multiples of 2 are 2, 4, 6, 8...  
         - (2x1) = 2, (2x2) = 4, (2x3) = 6 . . .
 
-**Least Common Multiple (LCM):** Smallest common positive multiple between values. 
-    - The LCM between 2 and 3 is 6 
-        - Multiples of 2: 2, 4, 6, 8, 10...
-        - Multiples of 3: 3, 6, 9, 12, 15... 
+**Least Common Multiple (LCM):** Smallest common positive multiple between values.   
+    - The LCM between 2 and 3 is 6  
+        - Multiples of 2: 2, 4, 6, 8, 10...  
+        - Multiples of 3: 3, 6, 9, 12, 15...   
         - The smallest positve number that appears in both lists is 6
 
-**Multiplying Fractions:** $\frac{a}{b}$ x $\frac{c}{d}$ = $\frac{a*c}{b*d}$
-    - d tells us the original fractional unit
-    - b tells us to divide those units original d units into b even smaller pieces
-    - That produces b x d equal pieces in the whole 
-    - c tells us how many of the original pieces we're considering 
-    - a tells us how many of the b groups we are taking 
+**Multiplying Fractions:** $\frac{a}{b}$ x $\frac{c}{d}$ = $\frac{a*c}{b*d}$  
+    - d tells us the original fractional unit  
+    - b tells us to divide those units  original d units into b even smaller pieces  
+    - That produces b x d equal pieces in the whole  
+    - c tells us how many of the original pieces we're considering  
+    - a tells us how many of the b groups we are taking   
     - Ultimately we count a x c of the new pieces  
 **Important Note:** We do **not** need common units before multiplying becuase we are not combining two collections of pieces, we are taking a fraction of another quantity. 
 
-**Dividing Fractions:** $\frac{a}{b} ÷ \frac{c}{d} = \frac{a}{b} x \frac{d}{c}$ 
-    - Rewrite the first fraction and the second fraction by multiplying the denominators together 
-        - $\frac{a}{b} = \frac{ad}{bd}$
-        - $\frac{c}{d} = \frac{bc}{bd}$ 
-    - Now we are comparing the same sized units 
-        - $\frac{ad}{bd} ÷ \frac{bc}{bd}$ 
-    - The common units cancel out 
-        - ad ÷ bc 
+**Dividing Fractions:** $\frac{a}{b} ÷ \frac{c}{d} = \frac{a}{b} x \frac{d}{c}$  
+    - Rewrite the first fraction and the second fraction by multiplying the denominators together  
+        - $\frac{a}{b} = \frac{ad}{bd}$  
+        - $\frac{c}{d} = \frac{bc}{bd}$  
+    - Now we are comparing the same sized units  
+        - $\frac{ad}{bd} ÷ \frac{bc}{bd}$  
+    - The common units cancel out  
+        - ad ÷ bc  
     - Now the fraction is $\frac{ad}{bc}$ or $\frac{a}{b} x \frac{d}{c}$  
-    - When we rewrite both fractions using the same fractional unit, the factors used to create that common unit cause the divsor's numerator and denominator to swtich positions in the resulting expression. This produces its reciprocal. 
+    - When we rewrite both fractions using the same fractional unit, the factors used to create that common unit cause the divsor's numerator and denominator to swtich positions in the resulting expression. This produces its reciprocal.  
 
-**Reciprocal:** The number that **multiplies** with it to make 1. 
+**Reciprocal:** The number that **multiplies** with it to make 1.  
     - Example: $\frac{4}{5} x \frac{5}{4}$ = 1
 
-**Important conceptual Distinctions:** 
-    - Addition/Subtraction 
-        - We need common sized units because we are combining or removing quantities 
-    - Multiplication 
-        - We are taking a fraction **of** a quantity
-    - Division 
-        - We are asking how many groups of one quantity fit inside the other 
-        - How many groups of the divisor fit inside the divdend. 
+**Important conceptual Distinctions:**  
+    - Addition/Subtraction  
+        - We need common sized units because we are combining or removing quantities  
+    - Multiplication  
+        - We are taking a fraction **of** a quantity  
+    - Division  
+        - We are asking how many groups of one quantity fit inside the other  
+        - How many groups of the divisor fit inside the divdend.  
